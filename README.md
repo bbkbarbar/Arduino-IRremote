@@ -30,7 +30,7 @@ We are open to suggestions for adding support to new boards, however we highly r
 
 ### Hardware specifications
 
-| Board/CPU                                                                | Send Pin            | Timers            |
+| Board / CPU                                                              | Send Pin            | Timers            |
 |--------------------------------------------------------------------------|---------------------|-------------------|
 | [ATtiny84](https://github.com/SpenceKonde/ATTinyCore)                    | **6**               | **1**             |
 | [ATtiny85](https://github.com/SpenceKonde/ATTinyCore)                    | **1**               | **TINY0**         |
