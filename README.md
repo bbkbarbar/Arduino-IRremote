@@ -1,4 +1,4 @@
-# IRremote Arduino Library
+# IRremote Arduino Library (forked)
 
 [![Build Status](https://travis-ci.org/z3t0/Arduino-IRremote.svg?branch=master)](https://travis-ci.org/z3t0/Arduino-IRremote)
 
