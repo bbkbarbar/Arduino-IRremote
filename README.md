@@ -53,22 +53,5 @@ The table above lists the currently supported timers and corresponding send pins
 ## Usage
 - TODO (Check examples for now)
 
-## Contributing
-If you want to contribute to this project:
-- Report bugs and errors
-- Ask for enhancements
-- Create issues and pull requests
-- Tell other people about this library
-- Contribute new protocols
-
-Check [here](Contributing.md) for some guidelines.
-
-## Contact
-Email: zetoslab@gmail.com
-Please only email me if it is more appropriate than creating an Issue / PR. I **will** not respond to requests for adding support for particular boards, unless of course you are the creator of the board and would like to cooperate on the project. I will also **ignore** any emails asking me to tell you how to implement your ideas. However, if you have a private inquiry that you would only apply to you and you would prefer it to be via email, by all means. 
-
 ## Contributors
 Check [here](Contributors.md)
-
-## Copyright
-Copyright 2009-2012 Ken Shirriff
